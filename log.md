@@ -135,3 +135,8 @@ parseable: `grep "^## \[" log.md | tail -5`.
 
 - Usuario nuevo: recorrido guiado de la jornada normal (salida, conciliación, retorno y liquidación, consulta e indicadores) más las funciones de su rol; se muestra una sola vez.
 - Nueva pantalla Configuración de la cuenta: datos propios, cambio de contraseña y botón para repetir el tutorial. Actualizadas [[Punto de continuación]], [[Backend de la plataforma]] y [[Frontend de la plataforma]].
+
+## [2026-10-29] meta | Ajuste de la vista de grafo
+
+- Filtro guardado: fuera `privado/`, `originales/`, `Clippings/`, `plantillas/`, `log.md` y el canvas (antes había un filtro residual «quesada» que ocultaba casi todo).
+- Grupos de color por carpeta del wiki, flechas activadas y distancia entre nodos reducida. Leyenda añadida en [[Manual de uso]].

@@ -2,7 +2,7 @@
 tipo: sintesis
 estado: estable
 creado: 2026-09-19
-actualizado: 2026-09-24
+actualizado: 2026-10-29
 tags: [meta]
 ---
 
@@ -77,6 +77,14 @@ Cada punto es una nota, cada línea un enlace. Sirve para dos diagnósticos ráp
 - **Puntos grises o tenues** → enlaces a notas que todavía no existen. En este wiki eso **no
   es un error**: es una lista de deseos, marca conceptos que se mencionan tanto que merecen
   página propia. Cuando veas uno repetido, pídeme que lo cree.
+
+**Colores** (grupos ya configurados): azul = fuentes · verde = conceptos · naranja =
+entidades · rojo = preguntas · morado = síntesis · gris oscuro = notas raíz (`panorama`,
+`index`, este manual).
+
+**Qué no aparece** (filtro guardado): `privado/`, `originales/`, `Clippings/`, `plantillas/`,
+`log.md` y el canvas. El log enlaza casi todo y convertía el grafo en una madeja; lo privado
+no debe mezclarse con el wiki. Las flechas muestran la dirección: quién cita a quién.
 
 ### Enlaces `[[así]]`
 
