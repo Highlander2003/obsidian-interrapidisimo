@@ -7,12 +7,48 @@
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
-    { "query": "path:wiki/fuentes", "color": { "a": 1, "rgb": 5016565 } },
-    { "query": "path:wiki/conceptos", "color": { "a": 1, "rgb": 3059051 } },
-    { "query": "path:wiki/entidades", "color": { "a": 1, "rgb": 15898954 } },
-    { "query": "path:wiki/preguntas", "color": { "a": 1, "rgb": 15026253 } },
-    { "query": "path:wiki/sintesis", "color": { "a": 1, "rgb": 10185968 } },
-    { "query": "-path:wiki", "color": { "a": 1, "rgb": 9080728 } }
+    {
+      "query": "path:wiki/fuentes",
+      "color": {
+        "a": 1,
+        "rgb": 5016565
+      }
+    },
+    {
+      "query": "path:wiki/conceptos",
+      "color": {
+        "a": 1,
+        "rgb": 3059051
+      }
+    },
+    {
+      "query": "path:wiki/entidades",
+      "color": {
+        "a": 1,
+        "rgb": 15898954
+      }
+    },
+    {
+      "query": "path:wiki/preguntas",
+      "color": {
+        "a": 1,
+        "rgb": 15026253
+      }
+    },
+    {
+      "query": "path:wiki/sintesis",
+      "color": {
+        "a": 1,
+        "rgb": 10185968
+      }
+    },
+    {
+      "query": "-path:wiki",
+      "color": {
+        "a": 1,
+        "rgb": 9080728
+      }
+    }
   ],
   "collapse-display": true,
   "showArrow": true,
@@ -24,6 +60,6 @@
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 140,
-  "scale": 0.9460415033822271,
-  "close": false
+  "scale": 0.9460415033822259,
+  "close": true
 }
